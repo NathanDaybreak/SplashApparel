@@ -1,3 +1,6 @@
+.body {
+  max-width: 100%;
+}
 .item-preview {
   background-color: #ffffff;
   display: flex;
@@ -283,7 +286,7 @@
   position: absolute;
   width: 376px;
   height: 124px;
-  top: 347px;
+  top: 450px;
   left: 42px;
 }
 
@@ -377,14 +380,7 @@
   height: 52px;
   top: 649px;
   left: 266px;
-  all: unset;
   box-sizing: border-box;
-}
-
-.item-preview .add-to-cart-wrapper {
-  position: relative;
-  width: 177px;
-  height: 52px;
   background-color: #ff0101;
 }
 
@@ -460,7 +456,7 @@
 .item-preview .text-wrapper-11 {
   position: absolute;
   width: 233px;
-  top: 291px;
+  top: 400px;
   left: 38px;
   font-family: "Oxanium", Helvetica;
   font-weight: 600;

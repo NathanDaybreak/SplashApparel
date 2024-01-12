@@ -1,0 +1,511 @@
+.body {
+  max-width: 100%;
+}
+.cart {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.cart .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1366px;
+  height: 1226px;
+  position: relative;
+}
+
+.cart .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 1213px;
+  top: 79px;
+  left: 0;
+  background-color: #d9d9d9;
+  box-shadow: inset 0px 4px 4px #00000040;
+}
+
+.cart .group {
+  position: absolute;
+  width: 1382px;
+  height: 1033px;
+  top: 30px;
+  left: 0;
+}
+
+.cart .overlap-group {
+  position: absolute;
+  width: 1366px;
+  height: 78px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.cart .text-wrapper {
+  position: absolute;
+  width: 44px;
+  top: 29px;
+  left: 90px;
+  font-family: "Oxanium", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cart .vector {
+  position: absolute;
+  width: 44px;
+  height: 39px;
+  top: 20px;
+  left: 19px;
+}
+
+.cart .overlap-2 {
+  position: absolute;
+  width: 422px;
+  height: 46px;
+  top: 20px;
+  left: 927px;
+}
+
+.cart .text-wrapper-2 {
+  position: absolute;
+  width: 253px;
+  top: 0;
+  left: 0;
+  font-family: "Oxanium", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cart .text-wrapper-3 {
+  position: absolute;
+  width: 179px;
+  top: 7px;
+  left: 243px;
+  font-family: "Oxanium", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.cart .overlap-3 {
+  position: absolute;
+  width: 1285px;
+  height: 920px;
+  top: 113px;
+  left: 44px;
+  background-color: #ffffff;
+}
+
+.cart .overlap-4 {
+  position: absolute;
+  width: 575px;
+  height: 223px;
+  top: 669px;
+  left: 688px;
+}
+
+.cart .add-to-cart-button {
+  position: absolute;
+  width: 224px;
+  height: 136px;
+  top: 67px;
+  left: 337px;
+}
+
+.cart .add-to-cart-wrapper {
+  position: relative;
+  width: 222px;
+  height: 136px;
+  background-color: #29bb26;
+  border-radius: 10px;
+}
+
+.cart .add-to-cart {
+  position: absolute;
+  width: 184px;
+  top: 26px;
+  left: 25px;
+  font-family: "Oxanium", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cart .amount-total {
+  position: absolute;
+  width: 575px;
+  top: 0;
+  left: 0;
+  font-family: "Oxanium", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cart .span {
+  font-weight: 500;
+}
+
+.cart .text-wrapper-4 {
+  font-size: 64px;
+}
+
+.cart .overlap-5 {
+  position: absolute;
+  width: 1246px;
+  height: 335px;
+  top: 75px;
+  left: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 3px solid;
+  border-color: #28231f;
+}
+
+.cart .overlap-6 {
+  position: absolute;
+  width: 263px;
+  height: 52px;
+  top: 93px;
+  left: 773px;
+}
+
+.cart .gold-button {
+  position: absolute;
+  width: 173px;
+  height: 52px;
+  top: 0;
+  left: 90px;
+}
+
+.cart .div-wrapper {
+  position: relative;
+  width: 171px;
+  height: 52px;
+  background-color: #ff4d01;
+}
+
+.cart .text-wrapper-5 {
+  position: absolute;
+  width: 134px;
+  top: 10px;
+  left: 20px;
+  font-family: "Oxanium", Helvetica;
+  font-weight: 600;
+  color: #fffffffc;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cart .text-wrapper-6 {
+  position: absolute;
+  width: 148px;
+  top: 4px;
+  left: 0;
+  font-family: "Oxanium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cart .out-removebg {
+  position: absolute;
+  width: 343px;
+  height: 313px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.cart .text-wrapper-7 {
+  position: absolute;
+  width: 305px;
+  top: 50px;
+  left: 436px;
+  font-family: "Oxanium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cart .line {
+  position: absolute;
+  width: 1px;
+  height: 329px;
+  top: 0;
+  left: 377px;
+  object-fit: cover;
+}
+
+.cart .overlap-7 {
+  position: absolute;
+  width: 295px;
+  height: 60px;
+  top: 13px;
+  left: 773px;
+}
+
+.cart .amount {
+  position: absolute;
+  width: 199px;
+  top: 11px;
+  left: 0;
+  font-family: "Oxanium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cart .rectangle {
+  width: 173px;
+  height: 60px;
+  left: 122px;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #000000;
+  position: absolute;
+  top: 0;
+}
+
+.cart .price-total {
+  position: absolute;
+  width: 343px;
+  top: 150px;
+  left: 770px;
+  font-family: "Oxanium", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cart .text-wrapper-8 {
+  font-weight: 500;
+  font-size: 64px;
+}
+
+.cart .ellipse-wrapper {
+  position: absolute;
+  width: 1240px;
+  height: 41px;
+  top: 15px;
+  left: 23px;
+  background-color: #ff4d01;
+}
+
+.cart .ellipse {
+  position: relative;
+  width: 24px;
+  height: 25px;
+  top: 9px;
+  left: 12px;
+  background-color: #ffffff;
+  border-radius: 11.86px/12.5px;
+}
+
+.cart .icon-tick-circle {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 167px;
+  left: 83px;
+}
+
+.cart .navigation-bar {
+  position: absolute;
+  width: 1368px;
+  height: 79px;
+  top: 0;
+  left: 0;
+}
+
+.cart .overlap-8 {
+  position: relative;
+  width: 1369px;
+  height: 79px;
+}
+
+.cart .rectangle-2 {
+  width: 1366px;
+  height: 79px;
+  left: 0;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 4px 2px #00000040;
+  position: absolute;
+  top: 0;
+}
+
+.cart .SPLASH-APPAREL {
+  position: absolute;
+  width: 248px;
+  top: 24px;
+  left: 9px;
+  font-family: "Notable", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cart .text-wrapper-9 {
+  color: #000000;
+}
+
+.cart .text-wrapper-10 {
+  color: #ff4d01;
+}
+
+.cart .navigation-buttons {
+  position: absolute;
+  width: 1159px;
+  height: 43px;
+  top: 14px;
+  left: 210px;
+}
+
+.cart .star {
+  position: absolute;
+  width: 30px;
+  height: 43px;
+  top: 0;
+  left: 1119px;
+  object-fit: cover;
+}
+
+.cart .navbar {
+  position: absolute;
+  width: 730px;
+  height: 30px;
+  top: 13px;
+  left: 0;
+}
+
+.cart .text-wrapper-11 {
+  left: 531px;
+  position: absolute;
+  width: 199px;
+  top: 0;
+  font-family: "Oxanium", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cart .text-wrapper-12 {
+  left: 409px;
+  position: absolute;
+  width: 199px;
+  top: 0;
+  font-family: "Oxanium", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cart .text-wrapper-13 {
+  left: 287px;
+  position: absolute;
+  width: 199px;
+  top: 0;
+  font-family: "Oxanium", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cart .text-wrapper-14 {
+  left: 140px;
+  position: absolute;
+  width: 199px;
+  top: 0;
+  font-family: "Oxanium", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cart .text-wrapper-15 {
+  left: 0;
+  position: absolute;
+  width: 199px;
+  top: 0;
+  font-family: "Oxanium", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cart .social-buttons {
+  position: absolute;
+  width: 141px;
+  height: 25px;
+  top: 13px;
+  left: 955px;
+}
+
+.cart .support {
+  position: absolute;
+  width: 23px;
+  height: 24px;
+  top: 1px;
+  left: 0;
+}
+
+.cart .img {
+  position: absolute;
+  width: 23px;
+  height: 24px;
+  top: 1px;
+  left: 60px;
+}
+
+.cart .user {
+  position: absolute;
+  width: 23px;
+  height: 24px;
+  top: 0;
+  left: 118px;
+}
